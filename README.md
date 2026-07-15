@@ -4,7 +4,7 @@
 <br />
 <div align="center">
 
-  <h2 align="center">Breakout</h2>
+  <h2 align="center">DuckHunt</h2>
 
   <p align="center">
     Short description of the game.
