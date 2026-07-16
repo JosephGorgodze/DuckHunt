@@ -50,8 +50,8 @@ TODO: add screenshot
 
 Here's why:
 TODO: describe why you chose this game 
-* reason 1
-* reason .. 
+* I have played it as a kid and I am familliar with it
+* It is a fun game and not so complicated
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,16 +61,15 @@ TODO: describe why you chose this game
 This section gives a clear and detailed overview of which parts of the original game I planned to make.
 
 ### The minimum I will most certainly develop:
-* .. 
-* .. 
+* Shooting at the ducks
+* UI
 
 ### What I will probably make as well:
-* .. 
-* .. 
+* The dog laughing at the player after a miss
 
 ### What I plan to create if I have enough time left:
-* .. 
-* .. 
+* Main Menu
+* Game Over Screen
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,12 +95,10 @@ Explain which project (version) must be run.
 <!-- HOW TO PLAY -->
 ## How to play
 
-Use this space to show useful examples of how a game can be played. 
-Additional screenshots and demos work well in this space. 
+Use the mouse to move around the cursor and when the duck pops up align the cursor and shoot it!
 
 ### Controls
-* keys, .. 
-* .. 
+* Right Mouse Button
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -144,9 +141,9 @@ Explain where you applied inheritance (mandatory).
 <!-- CONTACT -->
 ## Contact
 
-Your Name - email@student.howest.be
+Josef Gorgodze - Josef.GORGODZE@student.howest.be
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/JosephGorgodze/DuckHunt.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
