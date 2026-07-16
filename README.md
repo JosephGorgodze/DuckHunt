@@ -47,7 +47,7 @@
 ## About The Project
 
 TODO: add screenshot 
-
+https://github.com/JosephGorgodze/DuckHunt/blob/66f41fb0bbd93ec1b94688230b23bd39e516c8ed/DuckHunt_Screenshot.png
 Here's why:
 TODO: describe why you chose this game 
 * I have played it as a kid and I am familliar with it
