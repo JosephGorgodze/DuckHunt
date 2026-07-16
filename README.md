@@ -10,9 +10,9 @@
     Short description of the game.
     <br />
     <strong>Original game : </strong>
-    <a href="https://www.google.be/"><strong>General info »</strong></a>
+    <a href="https://famiwiki.net/wiki/Duck_Hunt"><strong>General info »</strong></a>
     ·
-    <a href="https://www.google.be/"><strong>Youtube video »<strong></a>
+    <a href="https://www.youtube.com/watch?v=J3sfsP9W048&t=37s"><strong>Youtube video »<strong></a>
     <br />
     <br />
   </p>
