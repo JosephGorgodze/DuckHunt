@@ -4,7 +4,7 @@
 <br />
 <div align="center">
 
-  <h2 align="center">DuckHunt</h2>
+  <h2 align="center">The Karate Kid</h2>
 
   <p align="center">
     Short description of the game.
@@ -47,7 +47,7 @@
 ## About The Project
 
 TODO: add screenshot 
-![Image Alt](https://github.com/JosephGorgodze/DuckHunt/blob/66f41fb0bbd93ec1b94688230b23bd39e516c8ed/DuckHunt_Screenshot.png)
+![Image Alt](https://github.com/JosephGorgodze/DuckHunt/blob/32b4fe43cc9889df90ec585967fdc18a3ab8226e/TheKarateKid_Screenshot.png)
 Here's why:
 TODO: describe why you chose this game 
 * I have played it as a kid and I am familliar with it
@@ -58,17 +58,17 @@ TODO: describe why you chose this game
 
 ## My version
 
-This section gives a clear and detailed overview of which parts of the original game I planned to make.
+I plan to make the first stage of The Karate Kid, where you fight an opponent and have 3 lives. I will add all the combat mechanics.
 
 ### The minimum I will most certainly develop:
-* Shooting at the ducks
-* UI
+* Combat
+* Enemy AI
 
 ### What I will probably make as well:
-* The dog laughing at the player after a miss
+* Main Menu
 
 ### What I plan to create if I have enough time left:
-* Main Menu
+* Win Screen
 * Game Over Screen
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -95,10 +95,11 @@ Explain which project (version) must be run.
 <!-- HOW TO PLAY -->
 ## How to play
 
-Use the mouse to move around the cursor and when the duck pops up align the cursor and shoot it!
+Use arrow keys to move around and jump with up key. You can punch with X and kick with Z. Beat your opponent to win.
 
 ### Controls
-* Right Mouse Button
+* X, Z
+* Arrow Keys
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
